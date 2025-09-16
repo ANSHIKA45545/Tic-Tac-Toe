@@ -35,11 +35,11 @@ Players take turns to place their marks on the 3×3 board until one of them wins
    cd Tic-Tac-Toe
 
 2. Compile the program:
-
+   '''bash
    javac Main.java
 
-3. Run the program:
-
+4. Run the program:
+'''bash
    java Main
 
 ```
