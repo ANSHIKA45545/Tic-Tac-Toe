@@ -23,10 +23,6 @@ Players take turns to place their marks on the 3×3 board until one of them wins
 
 ---
 
-## 📂 Project Structure
-
-
----
 
 ## 🚀 How to Run
 1. Clone this repository:
@@ -44,4 +40,7 @@ Players take turns to place their marks on the 3×3 board until one of them wins
 
 ---
 
-hello
+📸 Example Gameplay
+
+
+<img width="1920" height="1020" alt="Main java - Tic-Tac-Toe - Visual Studio Code 16-09-2025 23_29_55" src="https://github.com/user-attachments/assets/204482a6-9b25-4ca2-b8b1-e748d94fae94" />
