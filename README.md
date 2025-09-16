@@ -1,4 +1,4 @@
-#Tic-Tac-Toe
+## Tic-Tac-Toe
 
 This is a simple **Tic-Tac-Toe game** implemented in Java.  
 The game is played in the **console** by two players: `X` and `O`.  
